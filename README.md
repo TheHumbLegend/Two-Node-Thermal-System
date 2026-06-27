@@ -7,6 +7,12 @@ This project models and analyses a two-node thermal system using MATLAB, Simulin
 
 The project was developed as part of the **ACS133 Physical Systems** module and demonstrates dynamic system modelling, simulation, control-oriented analysis, and graphical user interface development.
 
+<img width="602" height="529" alt="image" src="https://github.com/user-attachments/assets/99840821-162a-40cb-8c2f-2338039a8ebc" />
+
+<img width="547" height="357" alt="image" src="https://github.com/user-attachments/assets/faea1e80-37af-4104-a7f5-69d12b296380" />
+
+<img width="603" height="405" alt="image" src="https://github.com/user-attachments/assets/e56e17e4-f06d-4085-bc6a-666048bf9a22" />
+
 ## Features
 
 * Dynamic modelling of a two-node thermal system
